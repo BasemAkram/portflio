@@ -32,7 +32,7 @@ const certifications = [
   {
     title: "Digital Forensics Fundamentals",
     issuer: "MaharaTech",
-    issuerUrl: https:/maharatech.gov.eg",
+    issuerUrl: https://maharatech.gov.eg",
     date: "2024",
     highlight: true,
     image: "/certs/depi-ir.jpg",
