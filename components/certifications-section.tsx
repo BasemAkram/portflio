@@ -31,10 +31,10 @@ const certifications = [
   },
   {
     title: "Digital Forensics Fundamentals",
-    issuer: "MaharaTech",
+    issuer: "netriders",
     issuerUrl: "https://maharatech.gov.eg",
     date: "2024",
-    highlight: true,
+    highlight: false,
     image: "/certs/depi-ir.jpg",
   },
   {
@@ -46,12 +46,12 @@ const certifications = [
     image: "/certs/malware.jpg",
   },
   {
-    title: "CCNA – Introduction to Networks",
+    title: "Basis Of Malware Analysis",
     issuer: "Cisco",
     issuerUrl: "https://www.cisco.com/",
-    date: "2024",
+    date: "2026",
     highlight: false,
-    image: "/certs/dfir.jpg",
+    image: "/certs/image1.jpg",
   },
 ]
 export function CertificationsSection() {
