@@ -42,7 +42,7 @@ skills: [
     role: "Bachelor of Artificial Intelligence",
     organization: "Minufiya University",
     organizationUrl: "https://www.menofia.edu.eg/",
-    duration: "2022 – Present",
+    duration: "2023 – Present",
     isCurrent: true,
     type: "education" as ExperienceType,
     bullets: [
