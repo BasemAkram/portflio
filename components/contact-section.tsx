@@ -14,7 +14,7 @@ const socialLinks = [
   {
     name: "LinkedIn",
     icon: Linkedin,
-    href: "https://www.linkedin.com/in/basemakram",
+    href: "www.linkedin.com/in/basem-younis",
     label: "in/basemakram",
   },
   {
